@@ -1,0 +1,6 @@
+C:\BestCom\Sample\CShapeReferenceSample\bin\Debug\CShapeReferenceSample.exe.config
+C:\BestCom\Sample\CShapeReferenceSample\bin\Debug\CShapeReferenceSample.exe
+C:\BestCom\Sample\CShapeReferenceSample\bin\Debug\CShapeReferenceSample.pdb
+C:\BestCom\Sample\CShapeReferenceSample\obj\Debug\CShapeReferenceSample.csprojAssemblyReference.cache
+C:\BestCom\Sample\CShapeReferenceSample\obj\Debug\CShapeReferenceSample.exe
+C:\BestCom\Sample\CShapeReferenceSample\obj\Debug\CShapeReferenceSample.pdb
